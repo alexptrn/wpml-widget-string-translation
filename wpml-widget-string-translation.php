@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WPML Widget string translation
- * Plugin URI: #
+ * Plugin URI: https://github.com/alexptrn/wpml-widget-string-translation
  * Description: This plugin allows to add widget translations, integrating with WPML String Translation
  * Version: 1.0.0
  * Author: Alessandro Paterno
- * Author URI: #
+ * Author URI: https://github.com/alexptrn
  * License: GPL
  */
 
